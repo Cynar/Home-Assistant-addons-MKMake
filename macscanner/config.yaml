@@ -40,4 +40,4 @@ schema:
   nmap_target: str
   nmap_speed: int(1,5)
 
-image: "ghcr.io/MKMakerSpace/{arch}-Home-Addistant-addons-MKMake"
+image: "ghcr.io/mkmakerSpace/{arch}-home-addistant-addons-mkmake"
